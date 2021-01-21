@@ -1,13 +1,13 @@
-# @domain.js/_PUBLIC_DEPS_NAME_
+# @domain.js/DEPS_NAME
 
-[![Build status](https://travis-ci.com/domain-js/_PUBLIC_DEPS_NAME_.svg?branch=master)](https://travis-ci.org/domain-js/_PUBLIC_DEPS_NAME_)
-[![codecov](https://codecov.io/gh/domain-js/_PUBLIC_DEPS_NAME_/branch/master/graph/badge.svg)](https://codecov.io/gh/domain-js/_PUBLIC_DEPS_NAME_)
+[![Build status](https://travis-ci.com/domain-js/DEPS_NAME.svg?branch=master)](https://travis-ci.org/domain-js/DEPS_NAME)
+[![codecov](https://codecov.io/gh/domain-js/DEPS_NAME/branch/master/graph/badge.svg)](https://codecov.io/gh/domain-js/DEPS_NAME)
 
 # Installation
-<pre>npm i @domain.js/_PUBLIC_DEPS_NAME_ --save</pre>
+<pre>npm i @domain.js/DEPS_NAME --save</pre>
 
 # cnf
-专属配置名称 `_PUBLIC_DEPS_NAME_`
+专属配置名称 `DEPS_NAME`
 | 名称 | 类型 | 必填 | 默认值 | 描述 | 样例 |
 | ---- | ---- | ---- | ------ | ---- | ---- |
 

@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/domain-js/_PUBLIC_DEPS_NAME_/.git"
+    "url": "git+ssh://git@github.com/domain-js/DEPS_NAME/.git"
   },
   "keywords": ["axios", "domain.js"],
   "author": "Redstone Zhao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/domain-js/_PUBLIC_DEPS_NAME_/issues"
+    "url": "https://github.com/domain-js/DEPS_NAME/issues"
   },
-  "homepage": "https://github.com/domain-js/_PUBLIC_DEPS_NAME_#readme",
+  "homepage": "https://github.com/domain-js/DEPS_NAME#readme",
   "devDependencies": {
     "jest": "^24.9.0"
   }
