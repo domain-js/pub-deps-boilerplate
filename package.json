@@ -1,7 +1,7 @@
 {
-  "name": "@domain.js/pub-deps-boilerplate",
+  "name": "@domain.js/DEPS_NAME",
   "version": "0.2.1",
-  "description": "domain.js 公共模块样板工程",
+  "description": "domain.js DEPS_NAME 通用模块",
   "main": "index.js",
   "scripts": {
     "test": "export NODE_ENV=test && jest ./__test__ --coverage",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/domain-js/DEPS_NAME/.git"
   },
-  "keywords": ["axios", "domain.js"],
+  "keywords": ["DEPS_NAME", "domain.js"],
   "author": "Redstone Zhao",
   "license": "MIT",
   "bugs": {
